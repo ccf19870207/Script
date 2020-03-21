@@ -1,4 +1,4 @@
 var body = $response.body;
-body = '\/*\n@supported 填X的设备Id\n*\/\n' + body;
+body = '\/*\n@supported 2BDCB6200918\n*\/\n' + body;
 
 $done(body);
